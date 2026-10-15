@@ -1,0 +1,9 @@
+dbms
+*.exe
+*.o
+*.obj
+*.data
+*.db
+*~
+*.bak
+.vscode/
